@@ -5,7 +5,11 @@
 </head>
 <body>
 
-<p>fegfrergrtgrtgrgrtgr</p>
+	<p>fegfrergrtgrtgrgrtgr</p>
+
+<?php echo 'nous sommes le' . date('d-m-Y'); ?>
+
 
 </body>
 </html>
+
